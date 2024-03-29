@@ -13,8 +13,8 @@ function App() {
       <PropsCrad name="Piyush Suhagiya" coures="frontend developer" discription="The lorem text the section contain conatins header having open andclose functionality" button="View More" image="https://xsgames.co/randomusers/avatar.php?g=male"/>
       <PropsCrad name="Jayan Dudakiya" coures="frontend developer" discription="The lorem text the section contain conatins header having open andclose functionality" button="View More" image="https://xsgames.co/randomusers/avatar.php?g=male"/>
       <PropsCrad name="Nikhil Kalsariya" coures="frontend developer" discription="The lorem text the section contain conatins header having open andclose functionality" button="View More" image="https://xsgames.co/randomusers/avatar.php?g=male"/>
-      <PropsCrad name="manshi vaghasiya" coures="frontend developer" discription="The lorem text the section contain conatins header having open andclose functionality" button="View More" image="https://xsgames.co/randomusers/avatar.php?g=female"/>
-      <PropsCrad name="Keni Kakadiya" coures="frontend developer" discription="The lorem text the section contain conatins header having open andclose functionality" button="View More" image="https://xsgames.co/randomusers/avatar.php?g=female"/>
+      <PropsCrad name="Smit Thummar" coures="frontend developer" discription="The lorem text the section contain conatins header having open andclose functionality" button="View More" image="https://xsgames.co/randomusers/avatar.php?g=male"/>
+      <PropsCrad name="Akshay Goti" coures="frontend developer" discription="The lorem text the section contain conatins header having open andclose functionality" button="View More" image="https://xsgames.co/randomusers/avatar.php?g=male"/>
 
       {/* <Img/>
       <Greeting/> */}
