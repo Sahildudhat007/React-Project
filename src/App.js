@@ -12,6 +12,7 @@ import IncDec from "./Component/IncDec";
 function App() {
 
   return(
+    
     <div className='App'>
 
       <IncDec/>
